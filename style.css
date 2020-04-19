@@ -1,0 +1,56 @@
+:root {
+    --red: hsl(4, 65%, 46%);
+}
+
+#main {
+    text-align: center;
+    font-family: 'Livvic', sans-serif;
+    font-weight: 300;
+}
+
+#title {
+    margin: 5% 10%;
+    color: var(--red);
+    font-family: 'Joti One', cursive;
+    font-size: 4em;
+}
+
+.head_subtitle {
+    color: var(--red);
+    font-family: 'Joti One', cursive;
+    font-size: 2em;
+}
+
+#head_text {
+    margin: 1em 10%;
+    font-weight: 300;
+    font-size: 1.5em;
+}
+
+#img-div {
+    margin: 1em 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#image {
+    margin: 5%;
+    display: block;
+    max-width: 60%;
+}
+
+.tribute-wrap {
+    margin: 5%;
+}
+
+
+
+/* 
+
+font-family: 'Anton', sans-serif;
+font-family: 'Joti One', cursive;
+font-family: 'Livvic', sans-serif; 
+
+
+*/
